@@ -7,7 +7,9 @@
 </div>
 
 <div align="center">
-<a>![Static Badge](https://img.shields.io/badge/linkedin-B2BEB5?style=plastic&logo=linkedin&logoColor=white&labelColor=7393B3&color=7393B3)</a>
+<a target="_blank">
+    <img src="(https://img.shields.io/badge/linkedin-B2BEB5?style=plastic&logo=linkedin&logoColor=white&labelColor=7393B3&color=7393B3)" target="_blank">
+</a>
 
 
 ## SOBRE MIM 📜
