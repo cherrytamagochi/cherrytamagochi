@@ -1,5 +1,5 @@
 
-![Profile Views](https://gpvc.arturio.dev/cherrytamagochi)
+![Profile Views](https://komarev.com/ghpvc/?username=cherrytamagochi&color=blueviolet)
 <div align="center">
     <a href="https://github.com/andreinaoliveira" target="_blank">
         <img src="https://i.pinimg.com/originals/0d/10/d2/0d10d2fe48a7956a4fdc9f7251132236.gif">
@@ -16,4 +16,4 @@
     <b>"Fazer uma coisa de maneira diferente é, com frequência, o mesmo que fazer tudo de maneira diferente. Ações não podem ser desfeitas dentro de uma existência, não importa o quanto se tente (…) A única maneira de aprender é vivendo." - A Bilioteca da Meia Noite.<b>
 </div>
 
-    Atualmente cursando <b> Análise e Desenvolvimento de Sistemas </b> na UDF.
+    Atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b> na UDF.
