@@ -34,12 +34,4 @@
     <b>"Fazer uma coisa de maneira diferente é, com frequência, o mesmo que fazer tudo de maneira diferente. Ações não podem ser desfeitas dentro de uma existência, não importa o quanto se tente (…) A única maneira de aprender é vivendo." - A Bilioteca da Meia Noite.<b>
 </div><br>
 
-    Atualmente cursando <b>Análise e Desenvolvimento de Sistemas<b> na UDF.<br><br>
 
- ## ⭐️ Sobre mim
-<div align='center'>
-  <b>"Tudo o que eu falo é de verdade. Na minha idade, a verdade é a minha liberdade" - Antonio Abujamra</b>
-</div><br>
-
-Sou formada em <b>Ciência da Computação</b> pela Uninorte (2021) e atualmente atuo no cargo <b>Desenvolvedora de testes Pleno</b> no INDT - Instituto de Desenvolvimento Tecnológico. Atuando há 2 anos na área de teste e meu foco está sendo em automação com <b>Cypress</b>. Também gosto de trabalhar com desenvolvimento mobile no <b>Android Studio</b> na linguagem <b>Kotlin</b> e ando ampliando meu conhecimento em Desenvolvimento Web.
-<br><br>
