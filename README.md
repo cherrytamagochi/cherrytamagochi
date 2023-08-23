@@ -7,9 +7,25 @@
 </div>
 
 <div align="center">
-<a target="_blank">
-    <img src="(https://img.shields.io/badge/linkedin-B2BEB5?style=plastic&logo=linkedin&logoColor=white&labelColor=7393B3&color=7393B3)" target="_blank">
-</a>
+    <a>
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+    </a>
+    <a>
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+    <a>
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a>
+        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    </a>
+    <a>
+        <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"target="_blank">
+    </a>
+    <a>
+        <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
+    </a>
+</div>
 
 
 ## SOBRE MIM 📜
@@ -18,4 +34,4 @@
     <b>"Fazer uma coisa de maneira diferente é, com frequência, o mesmo que fazer tudo de maneira diferente. Ações não podem ser desfeitas dentro de uma existência, não importa o quanto se tente (…) A única maneira de aprender é vivendo." - A Bilioteca da Meia Noite.<b>
 </div>
 
-    Atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b> na UDF.
+    Atualmente cursando Análise e Desenvolvimento de Sistemas na UDF.
