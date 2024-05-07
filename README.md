@@ -39,5 +39,3 @@
 <div align='center'>
     <b>"Fazer uma coisa de maneira diferente é, com frequência, o mesmo que fazer tudo de maneira diferente. Ações não podem ser desfeitas dentro de uma existência, não importa o quanto se tente (…) A única maneira de aprender é vivendo." - A Bilioteca da Meia Noite.<b>
 </div><br>
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cherrytamagochi&repo=dio-lab-open-source&bg_color=000&border_color=808080&show_icons=true&icon_color=808080&title_color=808080&text_color=FFF)](https://github.com/cherrytamagochi/dio-lab-open-source)
