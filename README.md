@@ -6,24 +6,16 @@
     </a>
 </div>
 
-<div align="center">
-    <a>
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=B3C8CF&color:FFF)](https://github.com/cherrytamagochi" target="_blank">
-    </a>
-    <a>
-        <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=B3C8CF&color:FFF)](https://www.linkedin.com/in/giovannalopesdev/" target="_blank">
-    </a>
-    <a>
-        <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=B3C8CF&color:FFF)](mailto:giovannadacostalopes@gmail.com)">
-    </a>
-    <a>
-        <img src="https://img.shields.io/badge/Spotify-000?&style=for-the-badge&logo=spotify&logoColor=B3C8CF&color:FFF)](https://open.spotify.com/user/ad9pghehwoz7emrsc9cdug678?si=d72be2e0e2804ef4"target="_blank">
-    </a>
-    <a>
-        <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=B3C8CF&color:FFF" target="_blank">
-    </a>
-</div>
+## *Connect w me*
+<div align='center'>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannalopesdev/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cherrytamagochi)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovannadacostalopes@gmail.com)
+[![Spotify](https://img.shields.io/badge/Spotify-000?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/ad9pghehwoz7emrsc9cdug678?si=55d401aeed1c4752)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199138346753/)
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@tamavlogs/)
+</div>
 
 ## 📜
 
