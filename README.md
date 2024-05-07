@@ -1,10 +1,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cherrytamagochi&color=blueviolet)
-<div align="right">
-    <a>
-        <img src="https://i.pinimg.com/originals/0d/10/d2/0d10d2fe48a7956a4fdc9f7251132236.gif">
-    </a>
-</div>
+
 
 <div align='justify'>
 
@@ -12,6 +8,11 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cherrytamagochi&repo=dio-lab-open-source&bg_color=000&border_color=808080&show_icons=true&icon_color=808080&title_color=808080&text_color=FFF)](https://github.com/cherrytamagochi/dio-lab-open-source)
 </div>
 
+<div align="right">
+    <a>
+        <img src="https://i.pinimg.com/originals/0d/10/d2/0d10d2fe48a7956a4fdc9f7251132236.gif">
+    </a>
+</div>
 
 ## ⛓ *Connect w me*
 <div align='center'>
