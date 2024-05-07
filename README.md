@@ -6,7 +6,7 @@
     </a>
 </div>
 
-## *Connect w me*
+## ⛓ *Connect w me*
 <div align='center'>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannalopesdev/)
