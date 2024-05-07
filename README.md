@@ -6,7 +6,7 @@
     </a>
 </div>
 
-## ⛓ *Connect w me*
+### ⛓ *Connect w me*
 <div align='center'>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannalopesdev/)
@@ -17,7 +17,7 @@
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@tamavlogs/)
 </div>
 
-## 📖 *Learning*
+### 📖 *Learning*
 <div align='center'>
 
 ![Java](https://img.shields.io/badge/java-808080.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -26,7 +26,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-808080?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
 
-## 📜
+### 📜
 
 <div align='center'>
     <b>"Fazer uma coisa de maneira diferente é, com frequência, o mesmo que fazer tudo de maneira diferente. Ações não podem ser desfeitas dentro de uma existência, não importa o quanto se tente (…) A única maneira de aprender é vivendo." - A Bilioteca da Meia Noite.<b>
