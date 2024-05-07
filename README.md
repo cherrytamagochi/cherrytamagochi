@@ -1,7 +1,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cherrytamagochi&color=blueviolet)
 
-<img align="right" src="(https://i.pinimg.com/originals/8c/ca/f4/8ccaf44f2a5af2e59dc72decab31a6b8.gif)">
+<img align="right" src="(https://i.pinimg.com/originals/4d/3f/d5/4d3fd5c79837384de61fd2ca64da03a7.gif))">
 
 <div align='justify'>
 
