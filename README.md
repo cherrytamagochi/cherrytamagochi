@@ -17,6 +17,15 @@
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@tamavlogs/)
 </div>
 
+## 📖 *Learning*
+<div align='center'>
+
+![Java](https://img.shields.io/badge/java-808080.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-808080?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-808080?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-808080?style=for-the-badge&logo=mysql&logoColor=white)
+</div>
+
 ## 📜
 
 <div align='center'>
