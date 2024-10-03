@@ -31,5 +31,5 @@
 ## 📜
 
 <div align='center'>
-    <b>"eu sabo<b>
+    <b>"O impossível acho, acontece com o viver."<b>
 </div><br>
