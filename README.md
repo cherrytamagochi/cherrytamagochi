@@ -31,5 +31,5 @@
 ## 📜
 
 <div align='center'>
-    <b>"O impossível acho, acontece com o viver."<b>
+    <b>“A vida é uma jornada, não um destino. Não importa onde você esteja agora, o importante é continuar caminhando.”<b>
 </div><br>
