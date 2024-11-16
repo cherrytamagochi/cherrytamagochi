@@ -12,24 +12,26 @@
 <div align='center'>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CBC3E3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannalopesdev/)
-[![GitHub](https://img.shields.io/badge/GitHub-CBC3E3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cherrytamagochi)
-[![Gmail](https://img.shields.io/badge/Gmail-CBC3E3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovannadacostalopes@gmail.com)
 [![Spotify](https://img.shields.io/badge/Spotify-CBC3E3?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/ad9pghehwoz7emrsc9cdug678?si=55d401aeed1c4752)
 [![Steam](https://img.shields.io/badge/Steam-CBC3E3?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199138346753/)
-[![Discord](https://img.shields.io/badge/Discord-CBC3E3?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@tamavlogs/)
+[![Pinterest](https://img.shields.io/badge/Pinterest-CBC3E3?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pin.it/5SmQVqaUd)
 </div>
 
-## 📖 *Learning*
+## 📖 *Developing skills in*
+- Analysis and review of projects
+- Software quality assessment
+- Object-oriented programming (OOP)
+
+### 💻 *Basic Languages*
 <div align='center'>
 
 ![Java](https://img.shields.io/badge/java-C3B1E1.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-C3B1E1?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-C3B1E1?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-C3B1E1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/python-C3B1E1?style=for-the-badge&logo=python&logoColor=white)
 </div>
 
-## 📜
+## 📌
 
 <div align='center'>
-    <b>"Fazer uma coisa de maneira diferente é, com frequência, o mesmo que fazer tudo de maneira diferente. Ações não podem ser desfeitas dentro de uma existência, não importa o quanto se tente (…) A única maneira de aprender é vivendo." - A Bilioteca da Meia Noite.<b>
+    <b>"I always thought that life was about standing your ground, no matter how strong the current was. But going with the flow isn't so bad after all. As long as it takes you forward." - Nana Osaki<b>
 </div><br>
